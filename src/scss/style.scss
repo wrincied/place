@@ -18,9 +18,12 @@ body,html{
     align-items: center;
     .main{
         ul{
+            text-align: center;
             li{
                 list-style-type: none;
+                padding-bottom: 25px;
                 p{
+                    
                     text-decoration: none;
                     color: #222222;
                     font-size: 25px;
